@@ -1,4 +1,4 @@
-<img width="762" height="159" alt="Screenshot 2025-12-06 210539" src="https://github.com/user-attachments/assets/1763f552-7937-418e-9f75-bd7f06c37476" /># T-FLIPFLOP-POSEDGE
+# T-FLIPFLOP-POSEDGE
 
 **AIM:**
 
